@@ -15,3 +15,13 @@ public class KodePos
         return tableKodePos[(int)kelurahan]; 
     }
 }
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Kelurahan kel1 = Kelurahan.Mengger;
+        Console.WriteLine(KodePos.getKodePos(kel1) + " merupakan kode pos "+kel1);
+             
+    }
+}
