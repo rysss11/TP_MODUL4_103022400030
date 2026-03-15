@@ -1,0 +1,5 @@
+C:\Users\Raissa\Documents\semester 4\kpl\TP_MODUL4_103022400030\TP_MODUL4_103022400030\obj\Debug\net10.0\TP_MODUL4_103022400030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raissa\Documents\semester 4\kpl\TP_MODUL4_103022400030\TP_MODUL4_103022400030\obj\Debug\net10.0\TP_MODUL4_103022400030.AssemblyInfoInputs.cache
+C:\Users\Raissa\Documents\semester 4\kpl\TP_MODUL4_103022400030\TP_MODUL4_103022400030\obj\Debug\net10.0\TP_MODUL4_103022400030.AssemblyInfo.cs
+C:\Users\Raissa\Documents\semester 4\kpl\TP_MODUL4_103022400030\TP_MODUL4_103022400030\obj\Debug\net10.0\TP_MODUL4_103022400030.csproj.CoreCompileInputs.cache
+C:\Users\Raissa\Documents\semester 4\kpl\TP_MODUL4_103022400030\TP_MODUL4_103022400030\obj\Debug\net10.0\TP_MODUL4_103022400030.sourcelink.json
